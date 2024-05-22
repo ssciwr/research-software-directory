@@ -24,7 +24,7 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
     <tr>
       <td>
         <p><strong>A-SLOTH</strong></p>
-        <p>The semi-analytical model A-SLOTH (Ancient Stars and Local Observables by Tracing Halos) is the first public code that connects the formation of the first stars and galaxies to observables. The model is based on dark matter merger trees that can either be generated based on Extended Press-Schechter theory or that can be imported from dark matter simulations.&nbsp;</p>
+        <p>The semi-analytical model A-SLOTH (Ancient Stars and Local Observables by Tracing Halos) is the first public code that connects the formation of the first stars and galaxies to observables. The model is based on dark matter merger trees that can either be generated based on Extended Press-Schechter theory or that can be imported from dark matter simulations.</p>
       </td>
       <td>Physics, Astrophysics</td>
       <td>Klessen group</td>
@@ -44,7 +44,7 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
       <td>
         <p>10.1007/978-3-642-23869-7_1</p>
       </td>
-      <td><a href="https://www.ita.uni-heidelberg.de/~fspanier/software/acronym.shtml?lang…">https://www.ita.uni-heidelberg.de/~fspanier/software/acronym.shtml?lang…</a></td>
+      <td><a href="https://www.ita.uni-heidelberg.de/~fspanier/software/acronym.shtml?lang=en">https://www.ita.uni-heidelberg.de/~fspanier/software/acronym.shtml?lang=en</a></td>
     </tr>
     <tr>
       <td>
@@ -57,7 +57,7 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
         <p>10.1016/j.cpc.2018.04.014</p>
         <p>10.17632/nt79b5nfsc.1</p>
       </td>
-      <td><a href="https://www.ita.uni-heidelberg.de/~fspanier/software/afterlive.shtml?la…">https://www.ita.uni-heidelberg.de/~fspanier/software/afterlive.shtml?la…</a></td>
+      <td><a href="https://www.ita.uni-heidelberg.de/~fspanier/software/afterlive.shtml?lang=en">https://www.ita.uni-heidelberg.de/~fspanier/software/afterlive.shtml?lang=en</a></td>
     </tr>
     <tr>
       <td>
@@ -86,7 +86,7 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
     <tr>
       <td>
         <p><strong>CARNIVAL</strong></p>
-        <p>CARNIVAL (CAusal Reasoning for Network identification using Integer VALue programming) is a method for the identification of upstream regulatory signalling pathways from downstream gene expression (GEX).The aim of the CARNIVAL is to identify a subset of interactions from a prior knowledge network that represent potential regulated pathways linking known or potential targets of perturbation towards active transcription factors derived from GEX data.&nbsp;</p>
+        <p>CARNIVAL (CAusal Reasoning for Network identification using Integer VALue programming) is a method for the identification of upstream regulatory signalling pathways from downstream gene expression (GEX).The aim of the CARNIVAL is to identify a subset of interactions from a prior knowledge network that represent potential regulated pathways linking known or potential targets of perturbation towards active transcription factors derived from GEX data.</p>
       </td>
       <td>Biology, Bioinformatics</td>
       <td>Saez-Rodriguez group</td>
@@ -98,7 +98,7 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
     <tr>
       <td>
         <p><strong>CONAN</strong></p>
-        <p>Contact analysis can be extremely useful to understand structure and dynamics of molecules and molecular complexes as they are atomistic-resolved descriptions of the interactions occurring within and between the investigated molecules. CONAN is a tool developed for the statistical and dynamical analysis of contacts along molecular dynamics trajectories. It uses a combination of open-source tools for the computation of contacts along trajectories and for the creation of images and videos.&nbsp;</p>
+        <p>Contact analysis can be extremely useful to understand structure and dynamics of molecules and molecular complexes as they are atomistic-resolved descriptions of the interactions occurring within and between the investigated molecules. CONAN is a tool developed for the statistical and dynamical analysis of contacts along molecular dynamics trajectories. It uses a combination of open-source tools for the computation of contacts along trajectories and for the creation of images and videos.</p>
       </td>
       <td>Physical Chemistry, Biochemistry, Biophysics</td>
       <td>Gräter group</td>
@@ -139,7 +139,7 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
     <tr>
       <td>
         <p><strong>cosmoRate</strong></p>
-        <p>cosmoRate is a&nbsp;semi-analytic code for the merger rate density evolution of binary compact object across cosmic time.</p>
+        <p>cosmoRate is a semi-analytic code for the merger rate density evolution of binary compact object across cosmic time.</p>
       </td>
       <td>Physics, Astrophysics</td>
       <td>Mapelli group</td>
@@ -164,7 +164,7 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
     <tr>
       <td>
         <p><strong>decoupleR</strong></p>
-        <p>There are many methods that allow us to extract biological activities from omics data.&nbsp;decoupleR&nbsp;is a Bioconductor package containing different statistical methods to extract biological signatures from prior knowledge within a unified framework. Additionally, it incorporates methods that take into account the sign and weight of network interactions.&nbsp;decoupleR&nbsp;can be used with any omic, as long as its features can be linked to a biological process based on prior knowledge. For example, in transcriptomics gene sets regulated by a transcription factor, or in phospho-proteomics phosphosites that are targeted by a kinase. There are both R and python versions.&nbsp;</p>
+        <p>There are many methods that allow us to extract biological activities from omics data. decoupleR is a Bioconductor package containing different statistical methods to extract biological signatures from prior knowledge within a unified framework. Additionally, it incorporates methods that take into account the sign and weight of network interactions. decoupleR can be used with any omic, as long as its features can be linked to a biological process based on prior knowledge. For example, in transcriptomics gene sets regulated by a transcription factor, or in phospho-proteomics phosphosites that are targeted by a kinase. There are both R and python versions.</p>
       </td>
       <td>Biology, Bioinformatics</td>
       <td>Saez-Rodriguez group</td>
@@ -189,7 +189,7 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
     <tr>
       <td>
         <p><strong>DUNE</strong></p>
-        <p>DUNE, the Distributed and Unified Numerics Environment is a modular toolbox for solving partial differential equations&nbsp;with grid-based methods. It supports the easy implementation of methods like Finite Elements, Finite Volumes, and also Finite Differences.</p>
+        <p>DUNE, the Distributed and Unified Numerics Environment is a modular toolbox for solving partial differential equations with grid-based methods. It supports the easy implementation of methods like Finite Elements, Finite Volumes, and also Finite Differences.</p>
       </td>
       <td>Computer Science, Applied Mathematics</td>
       <td>Bastian group</td>
@@ -226,7 +226,7 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
     <tr>
       <td>
         <p><strong>Force Distribution Analysis</strong></p>
-        <p>Force distribution analysis (FDA) is a method to detect and follow force and stress propagation in proteins, reminiscent of Finite Element Analysis used to engineer macroscopic structures. The method is based on Molecular Dynamics simulations during which we directly calculate forces between each atom pair in a system.&nbsp;</p>
+        <p>Force distribution analysis (FDA) is a method to detect and follow force and stress propagation in proteins, reminiscent of Finite Element Analysis used to engineer macroscopic structures. The method is based on Molecular Dynamics simulations during which we directly calculate forces between each atom pair in a system.</p>
       </td>
       <td>Physical Chemistry, Biochemistry, Biophysics</td>
       <td>Gräter group</td>
@@ -238,7 +238,7 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
     <tr>
       <td>
         <p><strong>FISHFactor</strong></p>
-        <p>FISHFactor is a&nbsp;probabilistic factor model for spatial transcriptomics data with subcellular resolution.&nbsp;It provides a&nbsp;non-negative, spatially informed factor analysis model with a Poisson point process likelihood to model single-molecule resolved data, as obtained for example from multiplexed fluorescence in-situ hybridization methods, and allows to integrate multiple cells by jointly inferring cell-specific factors and a weight matrix that is shared between cells.</p>
+        <p>FISHFactor is a probabilistic factor model for spatial transcriptomics data with subcellular resolution. It provides a non-negative, spatially informed factor analysis model with a Poisson point process likelihood to model single-molecule resolved data, as obtained for example from multiplexed fluorescence in-situ hybridization methods, and allows to integrate multiple cells by jointly inferring cell-specific factors and a weight matrix that is shared between cells.</p>
       </td>
       <td>Biology, Bioinformatics</td>
       <td>Velten group</td>
@@ -361,7 +361,7 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
     <tr>
       <td>
         <p><strong>KBbox</strong></p>
-        <p>KBbox (A Toolbox of Computational Methods for Studying the Kinetics of Molecular Binding) helps researchers decide which method for studying the kinetics of binding processes and predicting their associated rate constants might be suitable for their projects. KBbox is a web server that guides users in choosing the methods they should consider on the basis of the information they wish to obtain, the data they currently have available, and the computational resources to which they have access. KBbox provides information on the toolbox of available methods, their associated software tools, an expanding list of curated examples of published applications, and tutorials explaining how to apply some of the methods. It has been designed to allow the easy addition of new methods, tools, and examples as they are developed and published.&nbsp;</p>
+        <p>KBbox (A Toolbox of Computational Methods for Studying the Kinetics of Molecular Binding) helps researchers decide which method for studying the kinetics of binding processes and predicting their associated rate constants might be suitable for their projects. KBbox is a web server that guides users in choosing the methods they should consider on the basis of the information they wish to obtain, the data they currently have available, and the computational resources to which they have access. KBbox provides information on the toolbox of available methods, their associated software tools, an expanding list of curated examples of published applications, and tutorials explaining how to apply some of the methods. It has been designed to allow the easy addition of new methods, tools, and examples as they are developed and published.</p>
       </td>
       <td>Biology, Bioinformatics</td>
       <td>Wade group</td>
@@ -373,7 +373,7 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
     <tr>
       <td>
         <p><strong>KIMMDY</strong></p>
-        <p>KIMMDY (Kinetic Monte Carlo / Molecular Dynamics) enables covalent bond breakages in all-atom Molecular Dynamics (MD) simulations. The bond rupture rates are calculated based on the interatomic distances in the MD simulation and then serve as an input for a Kinetic Monte Carlo step. This hybrid approach allows to study breakages in large molecular systems bridging various time scales between MD and the rupture processes.&nbsp;</p>
+        <p>KIMMDY (Kinetic Monte Carlo / Molecular Dynamics) enables covalent bond breakages in all-atom Molecular Dynamics (MD) simulations. The bond rupture rates are calculated based on the interatomic distances in the MD simulation and then serve as an input for a Kinetic Monte Carlo step. This hybrid approach allows to study breakages in large molecular systems bridging various time scales between MD and the rupture processes.</p>
       </td>
       <td>Physical Chemistry, Biochemistry, Biophysics</td>
       <td>Gräter group</td>
@@ -496,7 +496,7 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
     <tr>
       <td>
         <p><strong>Molsurfer</strong></p>
-        <p>MolSurfer has been designed to assist the analysis of the structures and physico-chemical properties of macromolecular interfaces. MolSurfer provides a coupled display of two-dimensional (2D) maps of the interfaces generated with the ADS software and a three-dimensional (3D) view of the macromolecular structure in the Java PDB viewer, WebMol. The interfaces are analytically defined and properties such as electrostatic potential or hydrophobicity are projected on to them.&nbsp;</p>
+        <p>MolSurfer has been designed to assist the analysis of the structures and physico-chemical properties of macromolecular interfaces. MolSurfer provides a coupled display of two-dimensional (2D) maps of the interfaces generated with the ADS software and a three-dimensional (3D) view of the macromolecular structure in the Java PDB viewer, WebMol. The interfaces are analytically defined and properties such as electrostatic potential or hydrophobicity are projected on to them.</p>
       </td>
       <td>Biology, Bioinformatics</td>
       <td>Wade group</td>
@@ -509,7 +509,7 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
     <tr>
       <td>
         <p><strong>MOFA</strong></p>
-        <p>Multi-omics factor analysis (MOFA)&nbsp;provides a general framework for the integration of multi-omic data sets in an unsupervised fashion. Intuitively, MOFA can be viewed as a versatile and statistically rigorous generalization of principal component analysis to multi-omics data.&nbsp;</p>
+        <p>Multi-omics factor analysis (MOFA) provides a general framework for the integration of multi-omic data sets in an unsupervised fashion. Intuitively, MOFA can be viewed as a versatile and statistically rigorous generalization of principal component analysis to multi-omics data.</p>
       </td>
       <td>Biology, Bioinformatics</td>
       <td>Velten group</td>
@@ -559,7 +559,7 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
     <tr>
       <td>
         <p><strong>PIPSA / webPIPSA</strong></p>
-        <p>PIPSA allows a comparison of the electrostatic interaction properties of proteins. It permits the classification of proteins according to their interaction properties. PIPSA may assist in function assignment, the estimation of binding properties and enzyme kinetic parameters.&nbsp;</p>
+        <p>PIPSA allows a comparison of the electrostatic interaction properties of proteins. It permits the classification of proteins according to their interaction properties. PIPSA may assist in function assignment, the estimation of binding properties and enzyme kinetic parameters.</p>
       </td>
       <td>Biology, Bioinformatics</td>
       <td>Wade group</td>
@@ -675,7 +675,7 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
     <tr>
       <td>
         <p><strong>RASPD+</strong></p>
-        <p>RASPD+ (RApid Screening of hit molecules for target proteins via Physicochemical Descriptors+) is a computationally fast protocol for identifying lead-like molecules based on predicted binding freeenergy against a target protein with a 3D structure and a defined ligand binding pocket.&nbsp;</p>
+        <p>RASPD+ (RApid Screening of hit molecules for target proteins via Physicochemical Descriptors+) is a computationally fast protocol for identifying lead-like molecules based on predicted binding freeenergy against a target protein with a 3D structure and a defined ligand binding pocket.</p>
       </td>
       <td>Biology, Bioinformatics, Machine Learning</td>
       <td>Wade group</td>
@@ -711,9 +711,9 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
     <tr>
       <td>
         <p><strong>SCOOP template engine</strong></p>
-        <p>The purpose of the SCOOP template engine is to facilitate the preparation of manuscripts in LaTeX for publication in scientific journals. It allows the user to concentrate on the content, rather than the layout. The layout, which depends on the journal, will be automatically generated.&nbsp;</p>
+        <p>The purpose of the SCOOP template engine is to facilitate the preparation of manuscripts in LaTeX for publication in scientific journals. It allows the user to concentrate on the content, rather than the layout. The layout, which depends on the journal, will be automatically generated.</p>
       </td>
-      <td>&nbsp;</td>
+      <td> </td>
       <td>Herzog group</td>
       <td>
         <p></p>
@@ -750,7 +750,7 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
     <tr>
       <td>
         <p><strong>Sketch Map Tool</strong></p>
-        <p>The Sketch&nbsp;Map Tool is an easy-to-use tool for participatory sketch mapping through offline collection, digitization and georeferencing of local spatial knowledge. The tool has a variety of applications. For example, do you want to work together with people in a community to map their experience and perception of risk in their neighbourhood in a paper-based format, but still be able to quickly analyse the results digitally? Then, the Sketch&nbsp;Map Tool is exactly what you need!</p>
+        <p>The Sketch Map Tool is an easy-to-use tool for participatory sketch mapping through offline collection, digitization and georeferencing of local spatial knowledge. The tool has a variety of applications. For example, do you want to work together with people in a community to map their experience and perception of risk in their neighbourhood in a paper-based format, but still be able to quickly analyse the results digitally? Then, the Sketch Map Tool is exactly what you need!</p>
       </td>
       <td>Geoscience, Geoinformatics</td>
       <td>Zipf group</td>
@@ -818,7 +818,7 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
         <p>10.1051/0004-6361/201424159</p>
         <p>10.1016/j.astropartphys.2018.02.008</p>
       </td>
-      <td><a href="https://www.ita.uni-heidelberg.de/~fspanier/software/unicorn.shtml?lang…">https://www.ita.uni-heidelberg.de/~fspanier/software/unicorn.shtml?lang…</a></td>
+      <td><a href="https://www.ita.uni-heidelberg.de/~fspanier/software/unicorn.shtml?lang=en">https://www.ita.uni-heidelberg.de/~fspanier/software/unicorn.shtml?lang=en</a></td>
     </tr>
     <tr>
       <td>

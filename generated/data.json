@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "description": "The semi-analytical model A-SLOTH (Ancient Stars and Local Observables by Tracing Halos) is the first public code that connects the formation of the first stars and galaxies to observables. The model is based on dark matter merger trees that can either be generated based on Extended Press-Schechter theory or that can be imported from dark matter simulations.&nbsp;",
+      "description": "The semi-analytical model A-SLOTH (Ancient Stars and Local Observables by Tracing Halos) is the first public code that connects the formation of the first stars and galaxies to observables. The model is based on dark matter merger trees that can either be generated based on Extended Press-Schechter theory or that can be imported from dark matter simulations.",
       "doi": [
         "10.21105/joss.04417",
         "10.3847/1538-4357/ac7150"
@@ -19,7 +19,7 @@
       "field": "Physics, Astrophysics",
       "group": "Spanier group",
       "name": "ACRONYM",
-      "website": "https://www.ita.uni-heidelberg.de/~fspanier/software/acronym.shtml?lang…"
+      "website": "https://www.ita.uni-heidelberg.de/~fspanier/software/acronym.shtml?lang=en"
     },
     {
       "description": "Afterlive (A Fourier-based Tool in the Electrostatic limit for the Rapid Low-noise Integration of the Vlasov Equation) allows for a fast simulation of electromagnetic plasmas. It uses a hybrid method between a gridded Eulerian description and Lagrangian meta-particles, reconstructing the distribution function f in every time step for each species. This interpolation method combines meta-particles with different weights in such a way that particles with large weight do not drown out particles that represent small contributions to the phase space density. These core properties allow the use of a much larger range of macro factors and can thus represent a much larger dynamic range in phase space density.",
@@ -30,7 +30,7 @@
       "field": "Physics, Astrophysics",
       "group": "Spanier group",
       "name": "AFTERLIVE",
-      "website": "https://www.ita.uni-heidelberg.de/~fspanier/software/afterlive.shtml?la…"
+      "website": "https://www.ita.uni-heidelberg.de/~fspanier/software/afterlive.shtml?lang=en"
     },
     {
       "description": "AMMICO, the AI Media and Misinformation Content Analysis Tool, extracts data from images such as social media posts that contain an image and text. The analysis can generate a very large number of features, for example: Text extraction from the images, language detection, translation into English or other languages, sentiment analysis, named entity recognition, image caption generation based on the image content, image matching, visual question answering, face recognition, face mask detection, emotion recognition, and more.",
@@ -53,7 +53,7 @@
       "website": "https://github.com/nelson-group/ArepoVTK"
     },
     {
-      "description": "CARNIVAL (CAusal Reasoning for Network identification using Integer VALue programming) is a method for the identification of upstream regulatory signalling pathways from downstream gene expression (GEX).The aim of the CARNIVAL is to identify a subset of interactions from a prior knowledge network that represent potential regulated pathways linking known or potential targets of perturbation towards active transcription factors derived from GEX data.&nbsp;",
+      "description": "CARNIVAL (CAusal Reasoning for Network identification using Integer VALue programming) is a method for the identification of upstream regulatory signalling pathways from downstream gene expression (GEX).The aim of the CARNIVAL is to identify a subset of interactions from a prior knowledge network that represent potential regulated pathways linking known or potential targets of perturbation towards active transcription factors derived from GEX data.",
       "doi": [
         "10.1038/s41540-019-0118-z"
       ],
@@ -63,7 +63,7 @@
       "website": "https://saezlab.github.io/CARNIVAL/"
     },
     {
-      "description": "Contact analysis can be extremely useful to understand structure and dynamics of molecules and molecular complexes as they are atomistic-resolved descriptions of the interactions occurring within and between the investigated molecules. CONAN is a tool developed for the statistical and dynamical analysis of contacts along molecular dynamics trajectories. It uses a combination of open-source tools for the computation of contacts along trajectories and for the creation of images and videos.&nbsp;",
+      "description": "Contact analysis can be extremely useful to understand structure and dynamics of molecules and molecular complexes as they are atomistic-resolved descriptions of the interactions occurring within and between the investigated molecules. CONAN is a tool developed for the statistical and dynamical analysis of contacts along molecular dynamics trajectories. It uses a combination of open-source tools for the computation of contacts along trajectories and for the creation of images and videos.",
       "doi": [
         ""
       ],
@@ -98,7 +98,7 @@
       "website": "http://copasi.org/"
     },
     {
-      "description": "cosmoRate is a&nbsp;semi-analytic code for the merger rate density evolution of binary compact object across cosmic time.",
+      "description": "cosmoRate is a semi-analytic code for the merger rate density evolution of binary compact object across cosmic time.",
       "doi": [
         "10.1093/mnras/stad1860",
         "10.1093/mnras/stab280"
@@ -119,7 +119,7 @@
       "website": "https://github.com/utopia-foss/dantro"
     },
     {
-      "description": "There are many methods that allow us to extract biological activities from omics data.&nbsp;decoupleR&nbsp;is a Bioconductor package containing different statistical methods to extract biological signatures from prior knowledge within a unified framework. Additionally, it incorporates methods that take into account the sign and weight of network interactions.&nbsp;decoupleR&nbsp;can be used with any omic, as long as its features can be linked to a biological process based on prior knowledge. For example, in transcriptomics gene sets regulated by a transcription factor, or in phospho-proteomics phosphosites that are targeted by a kinase. There are both R and python versions.&nbsp;",
+      "description": "There are many methods that allow us to extract biological activities from omics data. decoupleR is a Bioconductor package containing different statistical methods to extract biological signatures from prior knowledge within a unified framework. Additionally, it incorporates methods that take into account the sign and weight of network interactions. decoupleR can be used with any omic, as long as its features can be linked to a biological process based on prior knowledge. For example, in transcriptomics gene sets regulated by a transcription factor, or in phospho-proteomics phosphosites that are targeted by a kinase. There are both R and python versions.",
       "doi": [
         "10.1093/bioadv/vbac016"
       ],
@@ -140,7 +140,7 @@
       "website": "https://www.dealii.org/"
     },
     {
-      "description": "DUNE, the Distributed and Unified Numerics Environment is a modular toolbox for solving partial differential equations&nbsp;with grid-based methods. It supports the easy implementation of methods like Finite Elements, Finite Volumes, and also Finite Differences.",
+      "description": "DUNE, the Distributed and Unified Numerics Environment is a modular toolbox for solving partial differential equations with grid-based methods. It supports the easy implementation of methods like Finite Elements, Finite Volumes, and also Finite Differences.",
       "doi": [
         "10.1016/j.camwa.2020.06.007"
       ],
@@ -171,7 +171,7 @@
       "website": "https://gitlab.hadw-bw.de/alma/alma/-/tree/main/fono"
     },
     {
-      "description": "Force distribution analysis (FDA) is a method to detect and follow force and stress propagation in proteins, reminiscent of Finite Element Analysis used to engineer macroscopic structures. The method is based on Molecular Dynamics simulations during which we directly calculate forces between each atom pair in a system.&nbsp;",
+      "description": "Force distribution analysis (FDA) is a method to detect and follow force and stress propagation in proteins, reminiscent of Finite Element Analysis used to engineer macroscopic structures. The method is based on Molecular Dynamics simulations during which we directly calculate forces between each atom pair in a system.",
       "doi": [
         "10.1186/2046-1682-6-5"
       ],
@@ -181,7 +181,7 @@
       "website": "https://github.com/HITS-MBM/gromacs-fda"
     },
     {
-      "description": "FISHFactor is a&nbsp;probabilistic factor model for spatial transcriptomics data with subcellular resolution.&nbsp;It provides a&nbsp;non-negative, spatially informed factor analysis model with a Poisson point process likelihood to model single-molecule resolved data, as obtained for example from multiplexed fluorescence in-situ hybridization methods, and allows to integrate multiple cells by jointly inferring cell-specific factors and a weight matrix that is shared between cells.",
+      "description": "FISHFactor is a probabilistic factor model for spatial transcriptomics data with subcellular resolution. It provides a non-negative, spatially informed factor analysis model with a Poisson point process likelihood to model single-molecule resolved data, as obtained for example from multiplexed fluorescence in-situ hybridization methods, and allows to integrate multiple cells by jointly inferring cell-specific factors and a weight matrix that is shared between cells.",
       "doi": [
         "10.1093/bioinformatics/btad183"
       ],
@@ -284,7 +284,7 @@
       "website": "https://www.ilastik.org/"
     },
     {
-      "description": "KBbox (A Toolbox of Computational Methods for Studying the Kinetics of Molecular Binding) helps researchers decide which method for studying the kinetics of binding processes and predicting their associated rate constants might be suitable for their projects. KBbox is a web server that guides users in choosing the methods they should consider on the basis of the information they wish to obtain, the data they currently have available, and the computational resources to which they have access. KBbox provides information on the toolbox of available methods, their associated software tools, an expanding list of curated examples of published applications, and tutorials explaining how to apply some of the methods. It has been designed to allow the easy addition of new methods, tools, and examples as they are developed and published.&nbsp;",
+      "description": "KBbox (A Toolbox of Computational Methods for Studying the Kinetics of Molecular Binding) helps researchers decide which method for studying the kinetics of binding processes and predicting their associated rate constants might be suitable for their projects. KBbox is a web server that guides users in choosing the methods they should consider on the basis of the information they wish to obtain, the data they currently have available, and the computational resources to which they have access. KBbox provides information on the toolbox of available methods, their associated software tools, an expanding list of curated examples of published applications, and tutorials explaining how to apply some of the methods. It has been designed to allow the easy addition of new methods, tools, and examples as they are developed and published.",
       "doi": [
         "10.1021/acs.jcim.9b00485"
       ],
@@ -294,7 +294,7 @@
       "website": "https://kbbox.h-its.org/toolbox/"
     },
     {
-      "description": "KIMMDY (Kinetic Monte Carlo / Molecular Dynamics) enables covalent bond breakages in all-atom Molecular Dynamics (MD) simulations. The bond rupture rates are calculated based on the interatomic distances in the MD simulation and then serve as an input for a Kinetic Monte Carlo step. This hybrid approach allows to study breakages in large molecular systems bridging various time scales between MD and the rupture processes.&nbsp;",
+      "description": "KIMMDY (Kinetic Monte Carlo / Molecular Dynamics) enables covalent bond breakages in all-atom Molecular Dynamics (MD) simulations. The bond rupture rates are calculated based on the interatomic distances in the MD simulation and then serve as an input for a Kinetic Monte Carlo step. This hybrid approach allows to study breakages in large molecular systems bridging various time scales between MD and the rupture processes.",
       "doi": [
         "10.1021/acs.jctc.9b00786"
       ],
@@ -397,7 +397,7 @@
       "website": "https://gitlab.com/micmap/mobse_open"
     },
     {
-      "description": "MolSurfer has been designed to assist the analysis of the structures and physico-chemical properties of macromolecular interfaces. MolSurfer provides a coupled display of two-dimensional (2D) maps of the interfaces generated with the ADS software and a three-dimensional (3D) view of the macromolecular structure in the Java PDB viewer, WebMol. The interfaces are analytically defined and properties such as electrostatic potential or hydrophobicity are projected on to them.&nbsp;",
+      "description": "MolSurfer has been designed to assist the analysis of the structures and physico-chemical properties of macromolecular interfaces. MolSurfer provides a coupled display of two-dimensional (2D) maps of the interfaces generated with the ADS software and a three-dimensional (3D) view of the macromolecular structure in the Java PDB viewer, WebMol. The interfaces are analytically defined and properties such as electrostatic potential or hydrophobicity are projected on to them.",
       "doi": [
         "10.1093/nar/gkg588",
         "10.1016/s0968-0004(99)01412-7"
@@ -408,7 +408,7 @@
       "website": "https://molsurfer.h-its.org/"
     },
     {
-      "description": "Multi-omics factor analysis (MOFA)&nbsp;provides a general framework for the integration of multi-omic data sets in an unsupervised fashion. Intuitively, MOFA can be viewed as a versatile and statistically rigorous generalization of principal component analysis to multi-omics data.&nbsp;",
+      "description": "Multi-omics factor analysis (MOFA) provides a general framework for the integration of multi-omic data sets in an unsupervised fashion. Intuitively, MOFA can be viewed as a versatile and statistically rigorous generalization of principal component analysis to multi-omics data.",
       "doi": [
         "10.15252/msb.20178124",
         "10.1186/s13059-020-02015-1"
@@ -450,7 +450,7 @@
       "website": "https://www.ita.uni-heidelberg.de/~fspanier/software/picpanther.shtml?l…"
     },
     {
-      "description": "PIPSA allows a comparison of the electrostatic interaction properties of proteins. It permits the classification of proteins according to their interaction properties. PIPSA may assist in function assignment, the estimation of binding properties and enzyme kinetic parameters.&nbsp;",
+      "description": "PIPSA allows a comparison of the electrostatic interaction properties of proteins. It permits the classification of proteins according to their interaction properties. PIPSA may assist in function assignment, the estimation of binding properties and enzyme kinetic parameters.",
       "doi": [
         "10.1002/(sici)1097-0134(19991115)37:3&lt;379::aid-prot6&gt;3.0.co;2-k",
         "10.1002/qua.1204",
@@ -548,7 +548,7 @@
       "website": "https://www.h-its.org/downloads/ramd/"
     },
     {
-      "description": "RASPD+ (RApid Screening of hit molecules for target proteins via Physicochemical Descriptors+) is a computationally fast protocol for identifying lead-like molecules based on predicted binding freeenergy against a target protein with a 3D structure and a defined ligand binding pocket.&nbsp;",
+      "description": "RASPD+ (RApid Screening of hit molecules for target proteins via Physicochemical Descriptors+) is a computationally fast protocol for identifying lead-like molecules based on predicted binding freeenergy against a target protein with a 3D structure and a defined ligand binding pocket.",
       "doi": [
         "https://doi.org/10.26434/chemrxiv.12636704.v2"
       ],
@@ -578,11 +578,11 @@
       "website": "https://cran.r-project.org/web/packages/rxylib/index.html"
     },
     {
-      "description": "The purpose of the SCOOP template engine is to facilitate the preparation of manuscripts in LaTeX for publication in scientific journals. It allows the user to concentrate on the content, rather than the layout. The layout, which depends on the journal, will be automatically generated.&nbsp;",
+      "description": "The purpose of the SCOOP template engine is to facilitate the preparation of manuscripts in LaTeX for publication in scientific journals. It allows the user to concentrate on the content, rather than the layout. The layout, which depends on the journal, will be automatically generated.",
       "doi": [
         ""
       ],
-      "field": "&nbsp;",
+      "field": " ",
       "group": "Herzog group",
       "name": "SCOOP template engine",
       "website": "https://pypi.org/project/scoop-template-engine/"
@@ -611,7 +611,7 @@
       "website": "https://gitlab.com/sevncodes/sevn"
     },
     {
-      "description": "The Sketch&nbsp;Map Tool is an easy-to-use tool for participatory sketch mapping through offline collection, digitization and georeferencing of local spatial knowledge. The tool has a variety of applications. For example, do you want to work together with people in a community to map their experience and perception of risk in their neighbourhood in a paper-based format, but still be able to quickly analyse the results digitally? Then, the Sketch&nbsp;Map Tool is exactly what you need!",
+      "description": "The Sketch Map Tool is an easy-to-use tool for participatory sketch mapping through offline collection, digitization and georeferencing of local spatial knowledge. The tool has a variety of applications. For example, do you want to work together with people in a community to map their experience and perception of risk in their neighbourhood in a paper-based format, but still be able to quickly analyse the results digitally? Then, the Sketch Map Tool is exactly what you need!",
       "doi": [
         ""
       ],
@@ -669,7 +669,7 @@
       "field": "Physics, Astrophysics",
       "group": "Spanier group",
       "name": "UNICORN",
-      "website": "https://www.ita.uni-heidelberg.de/~fspanier/software/unicorn.shtml?lang…"
+      "website": "https://www.ita.uni-heidelberg.de/~fspanier/software/unicorn.shtml?lang=en"
     },
     {
       "description": "Utopia is a comprehensive modelling framework for complex and adaptive systems that provides an integrated, automated workflow from data generation to data analysis and visualization. It thereby uses C++ for model implementation and Python for data analysis and is designed for user-friendliness and to facilitate collaborative research.",
