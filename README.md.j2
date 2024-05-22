@@ -2,6 +2,8 @@
 
 This repo contains the data from which the [SSC Research Software Directory](https://www.ssc.uni-heidelberg.de/en/research-software-directory) is generated.
 
+**Note: this README.md file is generated from the [README.md.j2](README.md.j2) jinja template - edit this template if you want to modify the README!**
+
 Whenever [data.yml](data.yml) is updated, the HTML code below is automatically updated, which can be copy&pasted into drupal:
 
 ```html
@@ -26,7 +28,7 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
       <td>{{ proj.field }}</td>
       <td>{{ proj.group }}</td>
       <td>
-{%- for item in doi %}
+{%- for item in proj.doi %}
         <p>{{ item }}</p>
 {%- endfor %}
       </td>
@@ -36,5 +38,3 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
   </tbody>
 </table>
 ```
-
-Note: this README.md is generated from the [README.md.j2](README.md.j2) jinja template - edit this template if you want to modify the README.

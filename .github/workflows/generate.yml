@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: pipx run jinja2-cli[yaml] -o README.md README.md.j2 data.yaml
+      - run: pipx run jinja2-cli[yaml] -o README.md README.md.j2 data.yml
       - uses: EndBug/add-and-commit@v9
         with:
           add: README.md
