@@ -1,14 +1,15 @@
-name: Update html code in readme
+name: Update HTML code in README.md
 on: push
 jobs:
-  update-readme:
+  update-readme-html:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - run: pipx run jinja2-cli[yaml] -o README.md README.md.j2 data.yml
-      - uses: EndBug/add-and-commit@v9
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          add: README.md
-          author_name: "SSC Render Bot"
-          author_email: "ssc@iwr.uni-heidelberg.de"
-          message: "Update html code in README.md"
+          commit_user_name: "SSC Render Bot"
+          commit_user_email: "ssc@iwr.uni-heidelberg.de"
+          commit_message: "Automated update of HTML code in README.md"
