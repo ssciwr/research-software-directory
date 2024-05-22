@@ -1,0 +1,40 @@
+# Research Software Directory
+
+This repo contains the data from which the [SSC Research Software Directory](https://www.ssc.uni-heidelberg.de/en/research-software-directory) is generated.
+
+Whenever [data.yml](data.yml) is updated, the HTML code below is automatically updated, which can be copy&pasted into drupal:
+
+```html
+<p>There is a lot of research software that is being developed and used at Heidelberg University. This Research Software Directory is meant to be a comprehensive but by no means complete list of such software, and may aid you in identifying collaboration partners.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Software</th>
+      <th>Field of Study</th>
+      <th>Research Group</th>
+      <th>DOI</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+{%- for proj in projects %}
+    <tr>
+      <td>
+        <p><strong>{{ proj.name }}</strong></p>
+        <p>{{ proj.description }}</p>
+      </td>
+      <td>{{ proj.field }}</td>
+      <td>{{ proj.group }}</td>
+      <td>
+{%- for item in doi %}
+        <p>{{ item }}</p>
+{%- endfor %}
+      </td>
+      <td><a href="{{ proj.website }}">{{ proj.website }}</a></td>
+    </tr>
+{%- endfor %}
+  </tbody>
+</table>
+```
+
+Note: this README.md is generated from the [README.md.j2](README.md.j2) jinja template - edit this template if you want to modify the README.
