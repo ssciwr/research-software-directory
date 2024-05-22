@@ -1,4 +1,4 @@
-name: Update HTML code in README.md
+name: Update HTML code in README.md and data.json
 on: push
 jobs:
   update-readme-html:
@@ -7,9 +7,10 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - run: pipx run jinja2-cli[yaml] -o README.md README.md.j2 data.yml
+      - run: pipx run jinja2-cli[yaml] -o generated/README.md README.md.j2 data.yml
+      - run: yq -p yaml -o json data.yml > generated/data.json
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_user_name: "SSC Render Bot"
           commit_user_email: "ssc@iwr.uni-heidelberg.de"
-          commit_message: "Automated update of HTML code in README.md"
+          commit_message: "Automated update of generated HTML code in README.md and data.json"
