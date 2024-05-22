@@ -77,6 +77,13 @@ projects:
     group: Mapelli group
     name: cosmoRate
     website: https://gitlab.com/Filippo.santoliquido/cosmo_rate_public
+  - description: dantro is a Python package that provides a uniform interface for hierarchically structured and semantically heterogeneous data. It provides an integrated, automated and configurable data processing pipeline from data handling over arbitrary transformation to publication quality data visualization.
+    doi:
+      - 10.21105/joss.02316
+    field: Data Science
+    group: Roth group
+    name: dantro
+    website: https://github.com/utopia-foss/dantro
   - description: There are many methods that allow us to extract biological activities from omics data.&nbsp;decoupleR&nbsp;is a Bioconductor package containing different statistical methods to extract biological signatures from prior knowledge within a unified framework. Additionally, it incorporates methods that take into account the sign and weight of network interactions.&nbsp;decoupleR&nbsp;can be used with any omic, as long as its features can be linked to a biological process based on prior knowledge. For example, in transcriptomics gene sets regulated by a transcription factor, or in phospho-proteomics phosphosites that are targeted by a kinase. There are both R and python versions.&nbsp;
     doi:
       - 10.1093/bioadv/vbac016
@@ -119,7 +126,7 @@ projects:
       - 10.1186/2046-1682-6-5
     field: Physical Chemistry, Biochemistry, Biophysics
     group: "Gräter group"
-    name: FDA
+    name: Force Distribution Analysis
     website: https://github.com/HITS-MBM/gromacs-fda
   - description: FISHFactor is a&nbsp;probabilistic factor model for spatial transcriptomics data with subcellular resolution.&nbsp;It provides a&nbsp;non-negative, spatially informed factor analysis model with a Poisson point process likelihood to model single-molecule resolved data, as obtained for example from multiplexed fluorescence in-situ hybridization methods, and allows to integrate multiple cells by jointly inferring cell-specific factors and a weight matrix that is shared between cells.
     doi:
@@ -471,6 +478,14 @@ projects:
     group: Spanier group
     name: UNICORN
     website: "https://www.ita.uni-heidelberg.de/~fspanier/software/unicorn.shtml?lang…"
+  - description: Utopia is a comprehensive modelling framework for complex and adaptive systems that provides an integrated, automated workflow from data generation to data analysis and visualization. It thereby uses C++ for model implementation and Python for data analysis and is designed for user-friendliness and to facilitate collaborative research.
+    doi:
+      - 10.21105/joss.02165
+      - 10.1007/978-3-030-50436-6_32
+    field: Physics, Complexity Science
+    group: Roth group
+    name: UTOPIA
+    website: https://utopia-project.org
   - description: VOSTOK (Voxel Octree Solar Toolkit) is a command-line tool to compute a detailed model of incoming solar radiation distribution on a patch of land, including structures like buildings and vegetation, represented by a 3D point cloud data set. "Vostok" is also the Russian word for "east" - the direction in which the sun rises.
     doi:
       - 10.11588/data/QNA02B
