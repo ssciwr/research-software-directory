@@ -635,6 +635,18 @@ Whenever [data.yml](data.yml) is updated, the HTML code below is automatically u
     </tr>
     <tr>
       <td>
+        <p><strong>Quanty</strong></p>
+        <p>Quanty is a C/C++ many-body quantum solver with a Lua scripting interface for defining fermionic Hamiltonians in second quantization, from which it can computing eigenstates, quantum dynamics, and linear/non-linear response functions. It is widely used for simulations of spectroscopy from THz to X-ray frequencies in solids and molecules, as well as atomic/nuclear spectra and cold-atom model dynamics.</p>
+      </td>
+      <td>Physics, Theoretical Chemistry</td>
+      <td>Haverkort group</td>
+      <td>
+        <p>10.1088/1742-6596/712/1/012001</p>
+      </td>
+      <td><a href="https://www.quanty.org/">https://www.quanty.org/</a></td>
+    </tr>
+    <tr>
+      <td>
         <p><strong>RCarb</strong></p>
         <p>RCarb is a package for dose rate modelling of carbonate-rich samples in the context of trapped charged dating (e.g., luminescence dating) applications.</p>
       </td>
