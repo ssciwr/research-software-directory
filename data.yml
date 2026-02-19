@@ -366,6 +366,13 @@ projects:
     group: "Höfle group"
     name: pytreedb
     website: https://github.com/3dgeo-heidelberg/pytreedb
+  - description: Quanty is a C/C++ many-body quantum solver with a Lua scripting interface for defining fermionic Hamiltonians in second quantization, from which it can computing eigenstates, quantum dynamics, and linear/non-linear response functions. It is widely used for simulations of spectroscopy from THz to X-ray frequencies in solids and molecules, as well as atomic/nuclear spectra and cold-atom model dynamics.
+    doi:
+      - 10.1088/1742-6596/712/1/012001
+    field: Physics, Theoretical Chemistry
+    group: Haverkort group
+    name: Quanty
+    website: https://www.quanty.org/
   - description: RCarb is a package for dose rate modelling of carbonate-rich samples in the context of trapped charged dating (e.g., luminescence dating) applications.
     doi:
       - Ancient TL, 37(2), 1-8 (2019)
